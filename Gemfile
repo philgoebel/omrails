@@ -13,11 +13,10 @@ group :development, :test do
 gem 'sqlite3'
 end
 
-
-  gem 'sass-rails'
-  gem 'coffee-rails'
-  gem 'bootstrap-sass'
-
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'bootstrap-sass'
+gem 'rails_12factor'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
